@@ -10,7 +10,6 @@
         <el-main class="layout-main">
           <div class="layout-main-content">
             <router-view />
-            <div id="container"></div>
           </div>
         </el-main>
         <!-- <el-footer>Footer</el-footer> -->
